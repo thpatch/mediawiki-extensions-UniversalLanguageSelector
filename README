@@ -1,3 +1,14 @@
+This fork retains `$wgExtraLanguageNames` in `data/LanguageNameIndexer.php`,
+allowing custom languages to be searchable by name in language selectors,
+instead of just by their language code. Required for Touhou Patch Center until
+https://phabricator.wikimedia.org/T298233 has been resolved.
+
+Original README below.
+
+
+-------------------------------------------------------------------------------
+
+
 == Universal Language Selector ==
 The Universal Language Selector extension (ULS) provides a flexible way to
 configure and deliver language settings like interface language, fonts, and
