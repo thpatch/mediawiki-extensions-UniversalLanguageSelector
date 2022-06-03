@@ -8,3 +8,5 @@ composer.lock
 vendor/
 .eslintcache
 .DS_Store
+
+data/LanguageNameSearchData.php
